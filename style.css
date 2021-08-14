@@ -1,0 +1,165 @@
+#k {
+  height: 200px;
+  width: 210px;
+  border-style: solid;
+  border-width: 5px;
+}
+
+#h {
+  height: 200px;
+  width: 210px;
+  border-style: solid;
+  border-width: 5px;
+}
+body {
+  text-align: center;
+  font-family: "Caveat", cursive;
+}
+img {
+  border-radius: 20%;
+  width: 100px;
+  margin-top: 50px;
+}
+h1 {
+  font-family: cursive;
+  color: purple;
+}
+
+.bio {
+  padding: 20px;
+  font-size: 90px;
+  text-align: center;
+  background-image: linear-gradient(
+    lightblue,
+    blue,
+    indigo,
+    purple,
+    violet,
+    orange,
+    pink,
+    magenta,
+    lightblue,
+    blue,
+    indigo
+  );
+  font-size: 18px;
+}
+#hggjgh {
+  font-style: italic;
+  color: red;
+}
+#p {
+  font-style: italic;
+  color: white;
+}
+#o {
+  font-family: arial;
+  font-size: 30px;
+}
+#main {
+  list-style: none;
+  font-family: cursive;
+  position: absolute;
+  top: 10px;
+  right:30px;
+  z-index: 10;
+  cursor: pointer;
+   
+}
+.link {
+  float: left;
+  color: black;
+  padding-top: 5px;
+  padding-left: 9px;
+  padding-right: 9px;
+  padding-bottom: 5px;
+  font-size: 20px;
+  font-family: monospace;
+  font-size: 16px;
+  display: inline;
+}
+.link:hover {
+  background-color: lightgrey;
+}
+#j {
+  background-image: linear-gradient(red, orange, blue, yellow, red);
+  background-repeat: no-repeat;
+}
+#about {
+  font-size: 20px;
+  font: italic small-caps bold 30px/30px Georgia, serif;
+}
+.line {
+  height: 6px;
+  background-color: black;
+  width: 70px;
+  margin: 8px auto;
+}
+#l {
+  background-image: repeating-radial-gradient(white, darkgrey 10%, grey 15%);
+  background-repeat: no-repeat;
+}
+#m {
+  background-image: linear-gradient(to bottom right, deeppink, cyan);
+  background-repeat: no-repeat;
+}
+#n {
+  background-image: linear-gradient(to bottom right, magenta, red);
+  background-repeat: no-repeat;
+}
+.hh {
+  font-size: 20px;
+  font-family: "Caveat", cursive;
+  color: grey;
+}
+#o {
+  background-image: linear-gradient(black, blue, black);
+  background-repeat: no-repeat;
+}
+.waste {
+  width: 200px;
+  height: 200px;
+}
+h3 {
+  color: darkorange;
+}
+#q {
+  background-image: linear-gradient(black, red, black);
+  background-repeat: no-repeat;
+}
+.html {
+  color: darkblue;
+}
+#r {
+  background-image: radial-gradient(circle, brown, yellow, red, orange);
+  background-repeat: no-repeat;
+}
+div {
+  font-size: 25px;
+  color: green;
+}
+#s {
+  background-image: radial-gradient(circle, lightgreen, seagreen, green, darkgreen);
+}
+#h:hover{
+  transform: scale(0.9);
+}
+#k:hover{
+  transform: scale(0.9);
+}
+.waste:hover{
+  transform: scale(0.9);
+}
+h1:hover{
+  transform: scale(0.9);
+}
+
+
+a {
+  display: block;
+  padding: 8px;
+  
+}
+#t {
+  background-image: repeating-linear-gradient(red, yellow 10%, green 20%);
+}
